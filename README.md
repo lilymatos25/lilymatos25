@@ -1,49 +1,39 @@
-## Hi there 👋
+## Hi there! 👋  
 
-I'm Lily
+I'm **Lily** 🌟  
 
-I am a senior IT major at Kennesaw State University. My interest is in cybersecurity. 
+### 🌱 **About Me**
+- 🎓 Senior IT major at **Kennesaw State University**  
+- 🔐 Passionate about **Cybersecurity**  
+- 🔧 Love breaking down **complex security challenges** into **understandable solutions**  
+- 💻 Worked at **Okta**, **HashiCorp**, and **MongoDB**  
 
-I have worked at:
+### 🚀 **What I’m Working On**  
+- **Mood:e**: A project connecting **mood** with **playlists and tasks** tailored for productivity  
 
-Okta (2024) - Product Security Engineer Intern, Security Reviews
-HashiCorp (2023) - Security Engineer Intern
-MongoDB (2022) - GRC Analyst Intern
+### 📚 **Currently Learning**  
+- Exploring **AI Security** and studying **OWASP for ML**  
 
+### 🤔 **Ask Me About**
+- Security automation  
+- Career advice for tech students  
+- Cool project ideas!
 
-I'm currently learning more about AI security, I am studying the OWASP for Ml. You can follow my learning journ ey here:
+---
 
-(coming soon)
+### ⚡ **Tech Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-I love learning and finding ways to grow technically. I love breaking down complex security issues to an understandable and solvable level.
+---
 
-Ask me about:
-idk what to put here
+### 📫 **Connect With Me**  
+[![LinkedIn](your_linkedin_icon_url)](https://linkedin.com/in/lilymatos)  
+[![Email](your_gmail_icon_url)](mailto:Limatos@bethel.jw.org)
 
-Tech Stack:
+---
 
-
-Projects:
-
-
-How to reach me:
-
-lilymatos.pro@gmail.com
-
-I am looking for help with:
-
-
-<!--
-**lilymatos25/lilymatos25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Fact
+I’ve been drinking **green tea** every day since the 7th grade—it’s my secret to energy and focus!  
