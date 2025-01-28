@@ -31,7 +31,7 @@ I'm **Lily** 🌟
 
 ### 📫 **Connect With Me**  
 [![LinkedIn](your_linkedin_icon_url)](https://linkedin.com/in/lilymatos)  
-[![Email](your_gmail_icon_url)](mailto:Limatos@bethel.jw.org)
+[![Email](your_gmail_icon_url)](mailto:lilymatos.pro@gmail.com)
 
 ---
 
