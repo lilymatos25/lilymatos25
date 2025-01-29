@@ -31,8 +31,13 @@ I'm **Lily** 🌟
 ---
 
 ### 📫 **Connect With Me**  
-[![LinkedIn](your_linkedin_icon_url)](https://linkedin.com/in/lilymatos)  
-[![Email](your_gmail_icon_url)](mailto:lilymatos.pro@gmail.com)
+<a href="https://linkedin.com/in/lilymatos">
+  <img src="https://github.com/lilymatos25/lilymatos25/raw/main/media/1727490_linkedin_social%20media_job_network_icon.svg" alt="LinkedIn" width="40" height="40">
+</a>
+
+<a href="mailto:lilymatos.pro@gmail.com">
+  <img src="https://github.com/lilymatos25/lilymatos25/raw/main/media/Social%20Media%20Icons.svg" alt="Email" width="40" height="40">
+</a>
 
 ---
 
