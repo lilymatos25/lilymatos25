@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&weight=500&pause=1000&color=00FF00&background=0E0E0D00&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+welcome+to+my+profile;I'm+Lily;Security+Engineer;AI+Enthusiast)](https://git.io/typing-svg) 
+<div style="text-align: center;">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=500&pause=1000&color=00FF00&background=0E0E0D00&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Lily+%E2%9C%A8;Welcome+to+my+profile+;Security+Engineer;AI+Enthusiast+;Student" alt="Typing SVG" /></a>
+</div>
 
 ### 🌱 **About Me**
 - 🎓 Senior IT major at **Kennesaw State University** (Graduating Dec 2025)  
@@ -15,8 +17,8 @@
 ---
 
 ### 📚 **Currently Learning**  
-- 🔍 **AI & Machine Learning Security** → Exploring **OWASP for ML & AI-driven threat detection**  
-- 🏗️ **Advanced Cloud Security** → Deep-diving into **AWS IAM, Kubernetes security, and CloudFormation best practices**  
+- 🔍 **AI & Machine Learning Security** → Exploring **OWASP for ML & AI-driven threat detection** Follow my journey here: 
+ 
 
 ---
 
