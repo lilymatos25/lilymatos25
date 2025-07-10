@@ -3,7 +3,7 @@
 </div>
 
 ### 🌱 **About Me**
-- 🎓 Senior IT major at **Kennesaw State University** (Graduating Dec 2024)  
+- 🎓 Senior IT major at **Kennesaw State University** (Graduating Dec 2025)  
 - 🔐 Passionate about **Cybersecurity & Security Engineering**  
 - 🔧 Love breaking down **complex security challenges** into **understandable solutions**  
 - 💻 Interned at **Okta, HashiCorp, and MongoDB**, specializing in **Security Automation, DevSecOps, and Cloud Security**  
